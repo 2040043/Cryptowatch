@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cryptowatch</string>
+
+    <!-- MainAcivity -->
+    <string name="market">Market</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="search">Search</string>
+    <string name="news">News</string>
+
+    <!-- SearchFragment -->
+    <string name="currencies">Currencies</string>
+
+    <!-- CurrencyActivity -->
+    <string name="chip_1h">1H</string>
+    <string name="chip_24h">24H</string>
+    <string name="chip_7d">7D</string>
+    <string name="chip_1m">1M</string>
+    <string name="chip_3m">3M</string>
+    <string name="chip_1y">1Y</string>
+    <string name="chip_max">MAX</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="supply">Supply</string>
+    <string name="change_1h">1H Change</string>
+    <string name="change_24h">24H Change</string>
+    <string name="volume_24h">24H Volume</string>
+    <string name="high_24h">24H High</string>
+    <string name="low_24h">24H Low</string>
+
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+
+
+</resources>

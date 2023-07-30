@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/market">
+    <fragment
+        android:id="@+id/market"
+        android:name="com.cryptowatch.app.MarketFragment"
+        android:label="@string/app_name" />
+    <fragment
+        android:id="@+id/portfolio"
+        android:name="com.cryptowatch.app.PortfolioFragment"
+        android:label="@string/app_name" />
+    <fragment
+        android:id="@+id/search"
+        android:name="com.cryptowatch.app.SearchFragment"
+        android:label="@string/app_name" />
+    <fragment
+        android:id="@+id/news"
+        android:name="com.cryptowatch.app.NewsFragment"
+        android:label="@string/app_name" />
+</navigation>
