@@ -29,7 +29,7 @@ CryptoWatch is your real-time companion for navigating the exciting world of cry
 ![image](https://github.com/2040043/Cryptowatch/assets/140932960/3114c02b-de0d-493b-a314-6710d96d4045)
 
 # Demo Video
-Click the link to redirect:
+Click the link to redirect: https://clipchamp.com/watch/sY9kFy0z74D
 
 # Researcher/Developer:
 - Richard Alaurin
